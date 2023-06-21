@@ -1,7 +1,7 @@
 ## Live website LINK : [Link](https://toy-marketplace-b19a0.web.app)
 
 ## Project title 
-Kidzee - a website or Toy Car
+Kidzee - A Toy Website
 
 ## Website features...
 * This is a toy c related website and you can see toy cars also you can see the toys details, seller, price. 
