@@ -1,4 +1,4 @@
-## Live website LINK : [Link](https://toy-marketplace-b19a0.web.app)
+## Live website LINK : [https://toy-marketplace-b19a0.web.app/](https://toy-marketplace-b19a0.web.app)
 
 ## Project title 
 Kidzee - A Toy Website
