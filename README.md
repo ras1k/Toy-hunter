@@ -19,6 +19,7 @@ Kidzee - A Toy Website
 * DaisyUI
 * Firebase
 * React Icons
+* Swiper
 * React Tabs
 * React Router Dom
 * Sweetalert
